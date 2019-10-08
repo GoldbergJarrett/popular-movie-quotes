@@ -1257,7 +1257,7 @@
         "movie": "Jurassic Park",
         "type": "Movie",
         "year": 1993
-    },
+    }
 	{
         "quote":"If you ain't first, you're last.",
         "movie":"Taladega Nights",
@@ -1265,9 +1265,15 @@
         "year":2006
     },
 	{
-        "quote": "Better dead and cool then alive and uncool.",
-        "movie": "Harley Davidson and The Marlboro Man",
-        "type": "Action, Crime",
-        "year": 1991
+        "quote": "Courage is the magic that turns dreams into reality.",
+        "movie": "Tales of Symphonia Dawn of the New World",
+        "type": "Video Game",
+        "year": 2008
+    },
+	{
+        "quote": "Stop Dave. Stop Dave. I am afraid. I am afraid Dave.",
+        "movie": "2001: Space Odyssey",
+        "type": "Movie",
+        "year": 1968
     }
 ]
